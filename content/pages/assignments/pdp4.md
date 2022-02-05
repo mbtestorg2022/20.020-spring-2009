@@ -39,4 +39,18 @@ Next, take this [questionnaire](http://www.engr.ncsu.edu/learningstyles/ilsweb.h
 Time to Complete Team Dynamics and Learning Styles Assessment: 1 Hour Max.
 --------------------------------------------------------------------------
 
-|  {{< br >}}{{< br >}} **Why are we doing this??** {{< br >}}{{< br >}} You're all here to learn and to work on a team project. But teams are only as functional as their most dis-functional member and everyone learns differently. Hopefully today's challenge and this homework assignment have helped raise your awareness of team dynamics and various learning styles, as well as giving a concrete example of some social implications that may be a consequence of your success. {{< br >}}{{< br >}}
+{{< tableopen >}}
+{{< tropen >}}
+{{< tdopen >}}
+
+
+**Why are we doing this??**
+
+You're all here to learn and to work on a team project. But teams are only as functional as their most dis-functional member and everyone learns differently. Hopefully today's challenge and this homework assignment have helped raise your awareness of team dynamics and various learning styles, as well as giving a concrete example of some social implications that may be a consequence of your success.
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}

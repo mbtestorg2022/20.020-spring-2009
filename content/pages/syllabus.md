@@ -133,45 +133,689 @@ L = Lecture
 
 S = Studio
 
-| WEEK | SES # | TOPICS | ACTIVITIES | KEY DATES |
-| --- | --- | --- | --- | --- |
-| 1 | L1 | Design, build, test | Paper airplane | &nbsp; |
-| S1 | Sampling of past projects | iGEM project review | &nbsp; |
-| L2 | Science as a take-apart | Take apart a tape recorder | Homework PDP1 due |
-| 2 | L3 | Engineering as a rebuild | Reassemble the tape recorder | Homework PDP2 due |
-| S2 | Broader project landscapes | Scripts and storyboards | Homework PDP3 due |
-| L4 | Decide what's worth doing | Play "Decide" (an exercise in policy and team dynamics) | &nbsp; |
-| 3 | S3 | Sorting hat into project camps | Temporary teams brainstorm project ideas | Homework PDP4 due |
-| L5 | Knowns vs. unknowns | The Clock of the Long Now | Homework PDP5 due |
-| 4 | L6 | Backyard biology | Kitchen DNA, Lego™Phoresis | &nbsp; |
-| S4 | Project teams assigned | Work on team contract and Facebook page |  {{< br >}}{{< br >}} Team contract and Facebook page due {{< br >}}{{< br >}} Homework PDP6 due {{< br >}}{{< br >}} Homework PDP7 due {{< br >}}{{< br >}}  |
-| L7 | FooCampers guide to bioengineering | More Lego™Phoresis | &nbsp; |
-| 5 | L8 | Scientist as activist | Video of DNA experimentation hearings, 1976 | Homework PDP8 due |
-| S5 | Design day 1 |  {{< br >}}{{< br >}} MIT Libraries research guide webpage {{< br >}}{{< br >}} Work on projects {{< br >}}{{< br >}}  | &nbsp; |
-| L9 | Interface between scientific/engineering community and the broader public | Guest lecture by Prof. Jonathan King, MIT | &nbsp; |
-| 6 | L10 | Project work day | &nbsp; | 3 ideas presentation due |
-| S6 | 3 ideas presentations | &nbsp; |
-| L11 | 3 ideas feedback | Final project selection | &nbsp; |
-| 7 | L12 | System overviews | Flip books, iGEM "bacterial buoy" project | &nbsp; |
-| S7 |  {{< br >}}{{< br >}} Design day 2 {{< br >}}{{< br >}} Abstraction in action part 1: systems to devices {{< br >}}{{< br >}}  | Work on projects | &nbsp; |
-| L13 | Abstraction in action part 2: devices to parts | &nbsp; |
-| 8 | L14 | Parts and registry | &nbsp; |
-| S8 | Design day 3 | Test and debug; data-driven decision making | &nbsp; |
-| L15 | Hypothesis-driven engineering | Validate system operation, learn from modes of failure | &nbsp; |
-| 9 | L16 | Project work day | &nbsp; | Tech spec review due |
-| S9 | Tech spec review presentations | &nbsp; |
-| L17 | Tech spec feedback | Plan project re-design | &nbsp; |
-| 10 | L18 | Reliability | Failures of materials, system performance and human sources | &nbsp; |
-| S10 | Re-design day 1 | Join registry of standard biological parts | &nbsp; |
-| L19 | Ownership and sharing | Inventor vs. investor role playing | &nbsp; |
-| 11 | S11 | Re-design day 2 | Drew Endy teaching | &nbsp; |
-| L20 | Project work day | Drew Endy teaching | &nbsp; |
-| 12 | L21 | Project work day (cont.) | &nbsp; |
-| S12 | Consultations on projects | &nbsp; |
-| L22 | Tips on oral presentations | &nbsp; |
-| 13 | L23 | Project work day | &nbsp; |
-| S13 | Final presentations day 1 | Three teams present | &nbsp; |
-| L24 | Q&A and project work | Class evaluation | &nbsp; |
-| 14 | L25 | Q&A and project work (cont.) | &nbsp; |
-| S14 | Final presentations day 2 | Three teams present | Final reports due |
-| L26 | Wrap-up and celebration | &nbsp; | Project log due
+{{< tableopen >}}
+{{< theadopen >}}
+{{< tropen >}}
+{{< thopen >}}
+WEEK
+{{< thclose >}}
+{{< thopen >}}
+SES #
+{{< thclose >}}
+{{< thopen >}}
+TOPICS
+{{< thclose >}}
+{{< thopen >}}
+ACTIVITIES
+{{< thclose >}}
+{{< thopen >}}
+KEY DATES
+{{< thclose >}}
+
+{{< trclose >}}
+
+{{< theadclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+1
+{{< tdclose >}}
+{{< tdopen >}}
+L1
+{{< tdclose >}}
+{{< tdopen >}}
+Design, build, test
+{{< tdclose >}}
+{{< tdopen >}}
+Paper airplane
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+S1
+{{< tdclose >}}
+{{< tdopen >}}
+Sampling of past projects
+{{< tdclose >}}
+{{< tdopen >}}
+iGEM project review
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+L2
+{{< tdclose >}}
+{{< tdopen >}}
+Science as a take-apart
+{{< tdclose >}}
+{{< tdopen >}}
+Take apart a tape recorder
+{{< tdclose >}}
+{{< tdopen >}}
+Homework PDP1 due
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+2
+{{< tdclose >}}
+{{< tdopen >}}
+L3
+{{< tdclose >}}
+{{< tdopen >}}
+Engineering as a rebuild
+{{< tdclose >}}
+{{< tdopen >}}
+Reassemble the tape recorder
+{{< tdclose >}}
+{{< tdopen >}}
+Homework PDP2 due
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+S2
+{{< tdclose >}}
+{{< tdopen >}}
+Broader project landscapes
+{{< tdclose >}}
+{{< tdopen >}}
+Scripts and storyboards
+{{< tdclose >}}
+{{< tdopen >}}
+Homework PDP3 due
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+L4
+{{< tdclose >}}
+{{< tdopen >}}
+Decide what's worth doing
+{{< tdclose >}}
+{{< tdopen >}}
+Play "Decide" (an exercise in policy and team dynamics)
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+3
+{{< tdclose >}}
+{{< tdopen >}}
+S3
+{{< tdclose >}}
+{{< tdopen >}}
+Sorting hat into project camps
+{{< tdclose >}}
+{{< tdopen >}}
+Temporary teams brainstorm project ideas
+{{< tdclose >}}
+{{< tdopen >}}
+Homework PDP4 due
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+L5
+{{< tdclose >}}
+{{< tdopen >}}
+Knowns vs. unknowns
+{{< tdclose >}}
+{{< tdopen >}}
+The Clock of the Long Now
+{{< tdclose >}}
+{{< tdopen >}}
+Homework PDP5 due
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+4
+{{< tdclose >}}
+{{< tdopen >}}
+L6
+{{< tdclose >}}
+{{< tdopen >}}
+Backyard biology
+{{< tdclose >}}
+{{< tdopen >}}
+Kitchen DNA, Lego™Phoresis
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+S4
+{{< tdclose >}}
+{{< tdopen >}}
+Project teams assigned
+{{< tdclose >}}
+{{< tdopen >}}
+Work on team contract and Facebook page
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Team contract and Facebook page due
+
+Homework PDP6 due
+
+Homework PDP7 due
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+L7
+{{< tdclose >}}
+{{< tdopen >}}
+FooCampers guide to bioengineering
+{{< tdclose >}}
+{{< tdopen >}}
+More Lego™Phoresis
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+5
+{{< tdclose >}}
+{{< tdopen >}}
+L8
+{{< tdclose >}}
+{{< tdopen >}}
+Scientist as activist
+{{< tdclose >}}
+{{< tdopen >}}
+Video of DNA experimentation hearings, 1976
+{{< tdclose >}}
+{{< tdopen >}}
+Homework PDP8 due
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+S5
+{{< tdclose >}}
+{{< tdopen >}}
+Design day 1
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+MIT Libraries research guide webpage
+
+Work on projects
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+L9
+{{< tdclose >}}
+{{< tdopen >}}
+Interface between scientific/engineering community and the broader public
+{{< tdclose >}}
+{{< tdopen >}}
+Guest lecture by Prof. Jonathan King, MIT
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+6
+{{< tdclose >}}
+{{< tdopen >}}
+L10
+{{< tdclose >}}
+{{< tdopen >}}
+Project work day
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+{{< tdopen >}}
+3 ideas presentation due
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+S6
+{{< tdclose >}}
+{{< tdopen >}}
+3 ideas presentations
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+L11
+{{< tdclose >}}
+{{< tdopen >}}
+3 ideas feedback
+{{< tdclose >}}
+{{< tdopen >}}
+Final project selection
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+7
+{{< tdclose >}}
+{{< tdopen >}}
+L12
+{{< tdclose >}}
+{{< tdopen >}}
+System overviews
+{{< tdclose >}}
+{{< tdopen >}}
+Flip books, iGEM "bacterial buoy" project
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+S7
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Design day 2
+
+Abstraction in action part 1: systems to devices
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+Work on projects
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+L13
+{{< tdclose >}}
+{{< tdopen >}}
+Abstraction in action part 2: devices to parts
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+8
+{{< tdclose >}}
+{{< tdopen >}}
+L14
+{{< tdclose >}}
+{{< tdopen >}}
+Parts and registry
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+S8
+{{< tdclose >}}
+{{< tdopen >}}
+Design day 3
+{{< tdclose >}}
+{{< tdopen >}}
+Test and debug; data-driven decision making
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+L15
+{{< tdclose >}}
+{{< tdopen >}}
+Hypothesis-driven engineering
+{{< tdclose >}}
+{{< tdopen >}}
+Validate system operation, learn from modes of failure
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+9
+{{< tdclose >}}
+{{< tdopen >}}
+L16
+{{< tdclose >}}
+{{< tdopen >}}
+Project work day
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+{{< tdopen >}}
+Tech spec review due
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+S9
+{{< tdclose >}}
+{{< tdopen >}}
+Tech spec review presentations
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+L17
+{{< tdclose >}}
+{{< tdopen >}}
+Tech spec feedback
+{{< tdclose >}}
+{{< tdopen >}}
+Plan project re-design
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+10
+{{< tdclose >}}
+{{< tdopen >}}
+L18
+{{< tdclose >}}
+{{< tdopen >}}
+Reliability
+{{< tdclose >}}
+{{< tdopen >}}
+Failures of materials, system performance and human sources
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+S10
+{{< tdclose >}}
+{{< tdopen >}}
+Re-design day 1
+{{< tdclose >}}
+{{< tdopen >}}
+Join registry of standard biological parts
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+L19
+{{< tdclose >}}
+{{< tdopen >}}
+Ownership and sharing
+{{< tdclose >}}
+{{< tdopen >}}
+Inventor vs. investor role playing
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+11
+{{< tdclose >}}
+{{< tdopen >}}
+S11
+{{< tdclose >}}
+{{< tdopen >}}
+Re-design day 2
+{{< tdclose >}}
+{{< tdopen >}}
+Drew Endy teaching
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+L20
+{{< tdclose >}}
+{{< tdopen >}}
+Project work day
+{{< tdclose >}}
+{{< tdopen >}}
+Drew Endy teaching
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+12
+{{< tdclose >}}
+{{< tdopen >}}
+L21
+{{< tdclose >}}
+{{< tdopen >}}
+Project work day (cont.)
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+S12
+{{< tdclose >}}
+{{< tdopen >}}
+Consultations on projects
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+L22
+{{< tdclose >}}
+{{< tdopen >}}
+Tips on oral presentations
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+13
+{{< tdclose >}}
+{{< tdopen >}}
+L23
+{{< tdclose >}}
+{{< tdopen >}}
+Project work day
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+S13
+{{< tdclose >}}
+{{< tdopen >}}
+Final presentations day 1
+{{< tdclose >}}
+{{< tdopen >}}
+Three teams present
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+L24
+{{< tdclose >}}
+{{< tdopen >}}
+Q&A and project work
+{{< tdclose >}}
+{{< tdopen >}}
+Class evaluation
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+14
+{{< tdclose >}}
+{{< tdopen >}}
+L25
+{{< tdclose >}}
+{{< tdopen >}}
+Q&A and project work (cont.)
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+S14
+{{< tdclose >}}
+{{< tdopen >}}
+Final presentations day 2
+{{< tdclose >}}
+{{< tdopen >}}
+Three teams present
+{{< tdclose >}}
+{{< tdopen >}}
+Final reports due
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+L26
+{{< tdclose >}}
+{{< tdopen >}}
+Wrap-up and celebration
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+{{< tdopen >}}
+Project log due
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}

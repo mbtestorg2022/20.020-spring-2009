@@ -62,11 +62,225 @@ A sample progress report, modfied from the Spring 2008 class ([PDF]({{< baseurl 
 
 The following selected project files are presented courtesy of the students and used with permssion.
 
-| TEAM | PROJECT DEVELOPMENT NOTEBOOK | MILESTONE  {{< br >}}PRESENTATIONS | FINAL DOCUMENTS |
-| --- | --- | --- | --- |
-|  {{< br >}}{{< br >}} **Boost the Body  {{< br >}}**(Hepatitis C treatment) {{< br >}}{{< br >}} Students: Samira Daswani, Leanna Morinishi, Jenny Zhou {{< br >}}{{< br >}} Mentor: anonymous MIT student {{< br >}}{{< br >}}  | Contract ([PDF]({{< baseurl >}}/resources/mit20_020s09_prj7_hepc_ctct)) |  {{< br >}}{{< br >}} 3 Ideas ([PDF]({{< baseurl >}}/resources/mit20_020s09_prj6_hepc_3id)) {{< br >}}{{< br >}} Tech Spec ([PDF]({{< baseurl >}}/resources/mit20_020s09_prj8_hepc_sp)) {{< br >}}{{< br >}}  | Final presentation ([PDF]({{< baseurl >}}/resources/mit20_020s09_proj_hepc_fin)) |
-|  {{< br >}}{{< br >}} **ENERGYneering**  {{< br >}}(algae biofuel) {{< br >}}{{< br >}} Students: Ragheb El Khaja, Abi Jain, and two anonymous MIT students {{< br >}}{{< br >}} Mentor: Julie Norville {{< br >}}{{< br >}}  | &nbsp; |  {{< br >}}{{< br >}} 3 Ideas ([PDF]({{< baseurl >}}/resources/mit20_020s09_proj13_nrg_3id)) {{< br >}}{{< br >}} Tech Spec ([PDF]({{< baseurl >}}/resources/mit20_020s09_proj14_nrg_sp)) {{< br >}}{{< br >}}  | &nbsp; |
-|  {{< br >}}{{< br >}} **Meat!**  {{< br >}}(_in vitro_ food) {{< br >}}{{< br >}} Students: Ryan Alexander, Janice O'Brien, and anonymous MIT student {{< br >}}{{< br >}} Mentor: anonymous MIT student {{< br >}}{{< br >}}  | &nbsp; |  {{< br >}}{{< br >}} 3 Ideas ([PDF]({{< baseurl >}}/resources/mit20_020s09_prj4_grow_3id)) {{< br >}}{{< br >}} Tech Spec ([PDF]({{< baseurl >}}/resources/mit20_020s09_prj5_grow_sp)) {{< br >}}{{< br >}}  | &nbsp; |
-|  {{< br >}}{{< br >}} **oncoCURES  {{< br >}}**(early metastasis detection) {{< br >}}{{< br >}} Students: Two anonymous MIT students {{< br >}}{{< br >}} Mentor: anonymous MIT student {{< br >}}{{< br >}}  |  {{< br >}}{{< br >}} Contract ([PDF]({{< baseurl >}}/resources/mit20_020s09_prj16_onco_ctct)) {{< br >}}{{< br >}} Log ([PDF]({{< baseurl >}}/resources/mit20_020s09_prj18_onco_log)) {{< br >}}{{< br >}}  |  {{< br >}}{{< br >}} 3 Ideas ([PDF]({{< baseurl >}}/resources/mit20_020s09_proj_onc15_3id)) {{< br >}}{{< br >}} Tech Spec ([PDF ‑ 2.8MB]({{< baseurl >}}/resources/mit20_020s09_prj19_onco_sp)) {{< br >}}{{< br >}}  |  {{< br >}}{{< br >}} Final presentation ([PDF]({{< baseurl >}}/resources/mit20_020s09_prj17_onco_fnp)) {{< br >}}{{< br >}} Report ([PDF]({{< baseurl >}}/resources/mit20_020s09_prj20_onco_td)) {{< br >}}{{< br >}}  |
-|  {{< br >}}{{< br >}} **Sleep-away**  {{< br >}}(alertness aid) {{< br >}}{{< br >}} Students: three anonymous MIT students {{< br >}}{{< br >}} Mentor: anonymous MIT student {{< br >}}{{< br >}}  | &nbsp; |  {{< br >}}{{< br >}} 3 Ideas ([PDF]({{< baseurl >}}/resources/mit20_020s09_prj9_neuro_3id)) {{< br >}}{{< br >}} Tech Spec ([PDF ‑ 1.9MB]({{< baseurl >}}/resources/mit20_020s09_prj10_neuro_sp)) {{< br >}}{{< br >}}  |  {{< br >}}{{< br >}} Final presentation ([PDF - 1.4MB]({{< baseurl >}}/resources/mit20_020s09_proj_neur_fin)) {{< br >}}{{< br >}} Report ([PDF]({{< baseurl >}}/resources/mit20_020s09_prj11_neuro_td)) {{< br >}}{{< br >}} Technical slides ([PDF ‑ 1.2MB]({{< baseurl >}}/resources/mit20_020s09_prj12_neuro_td)) {{< br >}}{{< br >}}  |
-|  {{< br >}}{{< br >}} **Trash to Treasure  {{< br >}}**(accelerated composting) {{< br >}}{{< br >}} Students: two anonymous MIT students {{< br >}}{{< br >}} Mentor: Julie Norville {{< br >}}{{< br >}}  | Contract ([PDF]({{< baseurl >}}/resources/mit20_020s09_prj22_trsh_cnt)) |  {{< br >}}{{< br >}} 3 Ideas ([PDF]({{< baseurl >}}/resources/mit20_020s09_prj21_trsh_3id)) {{< br >}}{{< br >}} Tech Spec ([PDF]({{< baseurl >}}/resources/mit20_020s09_prj23_trsh_sp)) {{< br >}}{{< br >}}  |
+{{< tableopen >}}
+{{< theadopen >}}
+{{< tropen >}}
+{{< thopen >}}
+TEAM
+{{< thclose >}}
+{{< thopen >}}
+PROJECT DEVELOPMENT NOTEBOOK
+{{< thclose >}}
+{{< thopen >}}
+MILESTONE  
+PRESENTATIONS
+{{< thclose >}}
+{{< thopen >}}
+FINAL DOCUMENTS
+{{< thclose >}}
+
+{{< trclose >}}
+
+{{< theadclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+
+
+**Boost the Body  
+**(Hepatitis C treatment)
+
+Students: Samira Daswani, Leanna Morinishi, Jenny Zhou
+
+Mentor: anonymous MIT student
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+Contract ([PDF]({{< baseurl >}}/resources/mit20_020s09_prj7_hepc_ctct))
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+3 Ideas ([PDF]({{< baseurl >}}/resources/mit20_020s09_prj6_hepc_3id))
+
+Tech Spec ([PDF]({{< baseurl >}}/resources/mit20_020s09_prj8_hepc_sp))
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+Final presentation ([PDF]({{< baseurl >}}/resources/mit20_020s09_proj_hepc_fin))
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+
+
+**ENERGYneering**  
+(algae biofuel)
+
+Students: Ragheb El Khaja, Abi Jain, and two anonymous MIT students
+
+Mentor: Julie Norville
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+3 Ideas ([PDF]({{< baseurl >}}/resources/mit20_020s09_proj13_nrg_3id))
+
+Tech Spec ([PDF]({{< baseurl >}}/resources/mit20_020s09_proj14_nrg_sp))
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+
+
+**Meat!**  
+(_in vitro_ food)
+
+Students: Ryan Alexander, Janice O'Brien, and anonymous MIT student
+
+Mentor: anonymous MIT student
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+3 Ideas ([PDF]({{< baseurl >}}/resources/mit20_020s09_prj4_grow_3id))
+
+Tech Spec ([PDF]({{< baseurl >}}/resources/mit20_020s09_prj5_grow_sp))
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+
+
+**oncoCURES  
+**(early metastasis detection)
+
+Students: Two anonymous MIT students
+
+Mentor: anonymous MIT student
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Contract ([PDF]({{< baseurl >}}/resources/mit20_020s09_prj16_onco_ctct))
+
+Log ([PDF]({{< baseurl >}}/resources/mit20_020s09_prj18_onco_log))
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+3 Ideas ([PDF]({{< baseurl >}}/resources/mit20_020s09_proj_onc15_3id))
+
+Tech Spec ([PDF ‑ 2.8MB]({{< baseurl >}}/resources/mit20_020s09_prj19_onco_sp))
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Final presentation ([PDF]({{< baseurl >}}/resources/mit20_020s09_prj17_onco_fnp))
+
+Report ([PDF]({{< baseurl >}}/resources/mit20_020s09_prj20_onco_td))
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+
+
+**Sleep-away**  
+(alertness aid)
+
+Students: three anonymous MIT students
+
+Mentor: anonymous MIT student
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+3 Ideas ([PDF]({{< baseurl >}}/resources/mit20_020s09_prj9_neuro_3id))
+
+Tech Spec ([PDF ‑ 1.9MB]({{< baseurl >}}/resources/mit20_020s09_prj10_neuro_sp))
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Final presentation ([PDF - 1.4MB]({{< baseurl >}}/resources/mit20_020s09_proj_neur_fin))
+
+Report ([PDF]({{< baseurl >}}/resources/mit20_020s09_prj11_neuro_td))
+
+Technical slides ([PDF ‑ 1.2MB]({{< baseurl >}}/resources/mit20_020s09_prj12_neuro_td))
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+
+
+**Trash to Treasure  
+**(accelerated composting)
+
+Students: two anonymous MIT students
+
+Mentor: Julie Norville
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+Contract ([PDF]({{< baseurl >}}/resources/mit20_020s09_prj22_trsh_cnt))
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+3 Ideas ([PDF]({{< baseurl >}}/resources/mit20_020s09_prj21_trsh_3id))
+
+Tech Spec ([PDF]({{< baseurl >}}/resources/mit20_020s09_prj23_trsh_sp))
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}

@@ -56,4 +56,18 @@ Consider these three quotes and then
 
 > "In the longer term, serious problems may arise in the large scale application of this methodology in industry, medicine and agriculture. But it was also recognized that further research and experience may show that many of the potential biohazards are less serious and/or less probable than we now suspect."
 
-|  {{< br >}}{{< br >}} **Why are we doing this??** {{< br >}}{{< br >}} This homework assignment serves three important purposes for our class. First, it provides some context for our upcoming class viewing the video of the 1974 Cambridge City Council Hearings. These hearings enabled the citizens of Cambridge to directly address the scientists themselves and question the intent and efficacy of national safety guidelines for recombinant DNA work. The video was made available to us by Charles Weiner and it will be shown on Tuesday in class. Second, this chapter will give some timeline for the development of recombinant DNA technology itself as well as for the meetings and hearings that addressed its hazards. Finally, this chapter gives some insight into the polarizing viewpoints and biases inherent in many of the discussions associated with these issues. {{< br >}}{{< br >}}
+{{< tableopen >}}
+{{< tropen >}}
+{{< tdopen >}}
+
+
+**Why are we doing this??**
+
+This homework assignment serves three important purposes for our class. First, it provides some context for our upcoming class viewing the video of the 1974 Cambridge City Council Hearings. These hearings enabled the citizens of Cambridge to directly address the scientists themselves and question the intent and efficacy of national safety guidelines for recombinant DNA work. The video was made available to us by Charles Weiner and it will be shown on Tuesday in class. Second, this chapter will give some timeline for the development of recombinant DNA technology itself as well as for the meetings and hearings that addressed its hazards. Finally, this chapter gives some insight into the polarizing viewpoints and biases inherent in many of the discussions associated with these issues.
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}

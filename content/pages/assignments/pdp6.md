@@ -35,4 +35,18 @@ By contrast, [this interview with Blade Kotelly](http://www.acm.org/ubiquity/int
 
 Now it's your turn. Please make 2 lists. The first list should be 5-10 characteristics of **good design in biology as we find it in the natural world**. The second list should be 5-10 characteristics of **good design in biologically engineered technologies**.
 
-|  {{< br >}}{{< br >}} **Why are we doing this??** {{< br >}}{{< br >}} As you start to design your own projects, it's important to think at a high level about "good design" elements. If you can articulate "what makes it great," then you should be in a powerful position to make wise decisions about project ideas, to accurately evaluate competing ideas and technologies, and to fully appreciate of what exists and what can be improved. {{< br >}}{{< br >}}
+{{< tableopen >}}
+{{< tropen >}}
+{{< tdopen >}}
+
+
+**Why are we doing this??**
+
+As you start to design your own projects, it's important to think at a high level about "good design" elements. If you can articulate "what makes it great," then you should be in a powerful position to make wise decisions about project ideas, to accurately evaluate competing ideas and technologies, and to fully appreciate of what exists and what can be improved.
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
