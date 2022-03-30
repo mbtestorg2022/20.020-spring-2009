@@ -48,7 +48,7 @@ Consider these three quotes and then
 
 > "The motive from the start was to avoid public interference and to demonstrate that the scientists on their own could protect laboratory workers, the public and the environment."
 
-**Quote 2:** from "Open Letter to the Asilomar Conference" written by Science for the People (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF](http://profiles.nlm.nih.gov/DJ/B/B/H/F/_/djbbhf.pdf)):
+**Quote 2:** from "Open Letter to the Asilomar Conference" written by Science for the People ([PDF](http://profiles.nlm.nih.gov/DJ/B/B/H/F/_/djbbhf.pdf)):
 
 > "There is little evidence that the technologies being discussed at this meeting arise from social or medical needs of large segments of the population. Rather, they represent specialized interests including those of the scientific community itself."
 
