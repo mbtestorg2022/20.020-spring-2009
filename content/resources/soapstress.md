@@ -7,6 +7,7 @@ image_metadata:
   caption: ''
   credit: ''
   image-alt: ''
+parent_uid: 6b390478-4bb4-fa18-4e86-cd14829a747e
 resourcetype: Image
 title: soapstress.gif
 uid: a9528b5c-e2ae-9c2d-ea87-d3379df7d5b7

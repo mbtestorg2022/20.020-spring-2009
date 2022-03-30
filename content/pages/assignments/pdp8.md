@@ -19,7 +19,7 @@ Part 1: What is Recombinant DNA?
 
 To illustrate your understanding of genetic engineering techniques, describe how you might make the DNA that programs the GloFish as described at [Wikipedia: Recombinant DNA](http://en.wikipedia.org/wiki/Recombinant_DNA).
 
-![Genetically modified flourescent fish.](/courses/biological-engineering/20-020-introduction-to-biological-engineering-design-spring-2009/assignments/500px_GloFish.jpg)
+{{< resource "be9fbdbb-1236-ee90-9115-587cbc5affe7" >}}
 
 [GloFish](http://en.wikipedia.org/wiki/GloFish) genetically modified flourescent fish. (Public domain image.)
 

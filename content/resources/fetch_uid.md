@@ -7,6 +7,7 @@ image_metadata:
   caption: ''
   credit: ''
   image-alt: ''
+parent_uid: 6b390478-4bb4-fa18-4e86-cd14829a747e
 resourcetype: Image
 title: Fetch_UID.jpeg
 uid: 71fa4ef4-b7d5-f2c2-8ab1-6d726673944e

@@ -7,6 +7,7 @@ image_metadata:
   caption: ''
   credit: ''
   image-alt: ''
+parent_uid: f46140cd-e86a-d79a-318f-ba9b9f2dbf04
 resourcetype: Image
 title: assn_pdp3_asbsketch.jpg
 uid: 20180623-acaf-f4fe-8d9b-327ae0a2f82c

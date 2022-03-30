@@ -7,6 +7,7 @@ image_metadata:
   caption: ''
   credit: ''
   image-alt: ''
+parent_uid: 6b390478-4bb4-fa18-4e86-cd14829a747e
 resourcetype: Image
 title: Legophoresis.jpg
 uid: 6de5cb3d-02b0-3931-62f8-2c8cf98896ef

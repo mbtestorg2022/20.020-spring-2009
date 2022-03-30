@@ -7,6 +7,7 @@ image_metadata:
   caption: ''
   credit: ''
   image-alt: ''
+parent_uid: 6b390478-4bb4-fa18-4e86-cd14829a747e
 resourcetype: Image
 title: Arsen_Dev_level.gif
 uid: 39992fec-9b47-567b-49ca-bbf17012ff23

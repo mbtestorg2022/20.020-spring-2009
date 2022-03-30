@@ -7,6 +7,7 @@ image_metadata:
   caption: ''
   credit: ''
   image-alt: ''
+parent_uid: 6b390478-4bb4-fa18-4e86-cd14829a747e
 resourcetype: Image
 title: TensionalStress.jpg
 uid: 0a5f1ab1-c769-5421-d2a2-380867ac8b1f

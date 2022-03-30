@@ -7,6 +7,7 @@ image_metadata:
   caption: ''
   credit: ''
   image-alt: ''
+parent_uid: becca3d9-df0a-28ca-aa38-17ca41c1c55b
 resourcetype: Image
 title: 3ideasOrganizer.jpg
 uid: 2093240e-0c27-c143-5a37-01c4ca2e6cfd

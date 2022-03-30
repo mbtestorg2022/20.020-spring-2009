@@ -7,6 +7,7 @@ image_metadata:
   caption: ''
   credit: ''
   image-alt: ''
+parent_uid: 6b390478-4bb4-fa18-4e86-cd14829a747e
 resourcetype: Image
 title: RomaForum_endy.jpg
 uid: cc6d9e6f-8834-200b-a132-3772be4db1f0

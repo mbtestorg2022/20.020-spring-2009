@@ -7,6 +7,7 @@ image_metadata:
   caption: ''
   credit: ''
   image-alt: ''
+parent_uid: 6b390478-4bb4-fa18-4e86-cd14829a747e
 resourcetype: Image
 title: Arsen_Devlevel.jpg
 uid: be905536-f9ce-b651-4226-8ff1df6b5e22

@@ -5,6 +5,7 @@ description: 'This file includes details on programming genetic logic, growth ph
   review of these processes. '
 file: https://ol-ocw-studio-app-qa.s3.amazonaws.com/courses/20-020-introduction-to-biological-engineering-design-spring-2009/e6bf8a074c756925d42d6676bded6272_MIT20_020S09_lec1_rvw3_coli.pdf
 file_type: application/pdf
+parent_uid: 6b390478-4bb4-fa18-4e86-cd14829a747e
 resourcetype: Document
 title: MIT20_020S09_lec1_rvw3_coli.pdf
 uid: e6bf8a07-4c75-6925-d42d-6676bded6272

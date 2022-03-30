@@ -7,6 +7,7 @@ image_metadata:
   caption: ''
   credit: ''
   image-alt: ''
+parent_uid: 6b390478-4bb4-fa18-4e86-cd14829a747e
 resourcetype: Image
 title: iGEM_storyboard_1.jpg
 uid: 3b993e0c-d163-fe2d-142e-e437daa643e9

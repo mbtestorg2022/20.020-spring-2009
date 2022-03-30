@@ -7,6 +7,7 @@ image_metadata:
   caption: ''
   credit: ''
   image-alt: ''
+parent_uid: becca3d9-df0a-28ca-aa38-17ca41c1c55b
 resourcetype: Image
 title: 3ideasOrganizer.gif
 uid: 263e963a-6e13-edb6-2e40-80d4ca143a22

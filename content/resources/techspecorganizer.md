@@ -7,6 +7,7 @@ image_metadata:
   caption: ''
   credit: ''
   image-alt: ''
+parent_uid: becca3d9-df0a-28ca-aa38-17ca41c1c55b
 resourcetype: Image
 title: TechSpecOrganizer.jpg
 uid: 95019bb9-0eeb-3c00-d77d-40f218b55b86

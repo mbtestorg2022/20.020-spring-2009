@@ -12,7 +12,7 @@ Over the next week we'll be turning the letter you wrote into a script and then 
 
 For inspiration, look through [_Adventures in Synthetic Biology_](http://www.nature.com/nature/comics/syntheticbiologycomic/index.html) and its original storyboard.
 
-![Handdrawn sketch of a comic storyboard.](/courses/biological-engineering/20-020-introduction-to-biological-engineering-design-spring-2009/assignments/assn_pdp3_asbsketch.jpg)
+{{< resource "20180623-acaf-f4fe-8d9b-327ae0a2f82c" >}}
 
 Original storyboard for Adventures in Synthetic Biology, by Drew Endy.
 

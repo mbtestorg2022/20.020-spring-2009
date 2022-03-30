@@ -7,6 +7,7 @@ image_metadata:
   caption: ''
   credit: ''
   image-alt: ''
+parent_uid: 6b390478-4bb4-fa18-4e86-cd14829a747e
 resourcetype: Image
 title: Ecolibrator_TimingDiagram.gif
 uid: b6e4d953-82f7-148e-df30-3d24ebfff55f

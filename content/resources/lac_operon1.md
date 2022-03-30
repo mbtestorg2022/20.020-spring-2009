@@ -7,6 +7,7 @@ image_metadata:
   caption: ''
   credit: ''
   image-alt: ''
+parent_uid: 6b390478-4bb4-fa18-4e86-cd14829a747e
 resourcetype: Image
 title: Lac_operon1.jpg
 uid: 718e7cf0-a740-45bc-942a-bb1adea09ac5

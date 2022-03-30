@@ -7,6 +7,7 @@ image_metadata:
   caption: ''
   credit: ''
   image-alt: ''
+parent_uid: 6b390478-4bb4-fa18-4e86-cd14829a747e
 resourcetype: Image
 title: StationaryBananascopy.jpg
 uid: 8c863009-fc37-0c1d-93de-49920db909da

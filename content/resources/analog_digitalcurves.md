@@ -7,6 +7,7 @@ image_metadata:
   caption: ''
   credit: ''
   image-alt: ''
+parent_uid: 6b390478-4bb4-fa18-4e86-cd14829a747e
 resourcetype: Image
 title: Analog_digitalcurves.jpg
 uid: 0a6302af-e932-d29e-98bb-f31bb726f406

@@ -7,6 +7,7 @@ image_metadata:
   caption: ''
   credit: ''
   image-alt: ''
+parent_uid: 6b390478-4bb4-fa18-4e86-cd14829a747e
 resourcetype: Image
 title: Abstraction_redrawn.jpg
 uid: 4767e4da-8b5e-47c9-bfaa-6007d5823638
